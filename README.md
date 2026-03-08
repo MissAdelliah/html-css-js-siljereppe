@@ -44,9 +44,8 @@ This projets is for a ecommerce website for outdoor gear (jackets)
 
 ### Installation
 
-```bash
-npm install
-```
+API_KEY = "https://v2.api.noroff.dev/rainy-days";
+Inter font
 
 ### Running the project
 
@@ -62,6 +61,7 @@ Create a `.env` file in the root directory:
 
 - JavaScript
 - HTML
+- ESlint
 - CSS
 - Prettier
 
